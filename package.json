@@ -1,0 +1,15 @@
+{
+  "name": "eslint-test1",
+  "version": "1.0.0",
+  "author": "Teppei Sato <teppeis@gmail.com>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "eslint": "^4.10.0",
+    "eslint-plugin-eslint-comments": "^2.0.0"
+  },
+  "keywords": [],
+  "license": "MIT"
+}
