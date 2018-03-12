@@ -2,6 +2,6 @@
   "extends": ["config:base", ":prConcurrentLimit10"],
   "lockFileMaintenance": {
     "enabled": true,
-    "extends": "schedule:daily"
+    "schedule": []
   }
 }
