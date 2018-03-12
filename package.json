@@ -8,7 +8,7 @@
   },
   "devDependencies": {
     "eslint": "4.18.2",
-    "eslint-plugin-eslint-comments": "2.0.0"
+    "eslint-plugin-eslint-comments": "2.0.2"
   },
   "keywords": [],
   "license": "MIT"
